@@ -26,12 +26,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
-          cache: npm
-          cache-dependency-path: package-lock.json      
 
       - name: Run script
         run: |
-          npm start          
+          npm start
 
       - name: Commit changes
         run: |
@@ -41,7 +39,7 @@ jobs:
             "t.wagner66250@gmail.com"
           git add .
           git diff-index --quiet HEAD \
-            || git commit -m "Kanji of the day added at $(date -u)"          
+            || git commit -m "Kanji of the day added at $(date -u)"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

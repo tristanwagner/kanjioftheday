@@ -1,0 +1,19 @@
+{
+  "name": "kanjioftheday",
+  "version": "1.0.0",
+  "description": "This README should display a new kanji every day",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanwagner/kanjioftheday.git"
+  },
+  "author": "Tristan WAGNER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tristanwagner/kanjioftheday/issues"
+  },
+  "homepage": "https://github.com/tristanwagner/kanjioftheday#readme"
+}
