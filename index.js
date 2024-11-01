@@ -35,7 +35,7 @@ const fetchKanji = async () => {
 
   add(header);
   add(`<h1 align="center">${data.kanji}</h1>`);
-  add(`<p align="left">meaning(s): ${data.meanings.join(', ')}</p>`);
+  add(`<p align="left">meaning(s): <b>${data.meanings.join(', ')}</b></p>`);
 
   if (data.heisig_en) {
     add(`<p align="left">Heisig: <b>${data.heisig_en}</b></p>`);
