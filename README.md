@@ -1,7 +1,7 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">剿</h1>
-<p align="left">meaning(s): <b>destroy</b></p>
-<p align="left">ON reading(s): <b>ショウ, ソウ</b></p>
-<p align="left">stroke count: <b>13</b></p>
-<p align="left">unicode: <b>527F</b></p>
+<h1 align="center">髏</h1>
+<p align="left">meaning(s): <b>skull</b></p>
+<p align="left">ON reading(s): <b>ロ</b></p>
+<p align="left">stroke count: <b>21</b></p>
+<p align="left">unicode: <b>9ACF</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
