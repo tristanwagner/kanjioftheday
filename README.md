@@ -1,7 +1,13 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">搆</h1>
-<p align="left">meaning(s): <b>cause, pull</b></p>
-<p align="left">ON reading(s): <b>コウ</b></p>
-<p align="left">stroke count: <b>13</b></p>
-<p align="left">unicode: <b>6406</b></p>
+<h1 align="center">銀</h1>
+<p align="left">meaning(s): <b>silver</b></p>
+<p align="left">Heisig: <b>silver</b></p>
+<p align="left">ON reading(s): <b>ギン</b></p>
+<p align="left">KUN reading(s): <b>しろがね</b></p>
+<p align="left">name reading(s): <b>うん, かな, かね</b></p>
+<p align="left">frequency: <b>395</b></p>
+<p align="left">grade: <b>3</b></p>
+<p align="left">JLPT level: <b>4</b></p>
+<p align="left">stroke count: <b>14</b></p>
+<p align="left">unicode: <b>9280</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
