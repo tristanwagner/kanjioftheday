@@ -1,12 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">愁</h1>
-<p align="left">meaning(s): <b>be anxious, distress, grieve, lament</b></p>
-<p align="left">Heisig: <b>distress</b></p>
-<p align="left">ON reading(s): <b>シュウ</b></p>
-<p align="left">KUN reading(s): <b>うれ.い, うれ.える</b></p>
-<p align="left">frequency: <b>2171</b></p>
-<p align="left">grade: <b>8</b></p>
-<p align="left">JLPT level: <b>1</b></p>
-<p align="left">stroke count: <b>13</b></p>
-<p align="left">unicode: <b>6101</b></p>
+<h1 align="center">弣</h1>
+<p align="left">meaning(s): <b>middle</b></p>
+<p align="left">ON reading(s): <b>フ</b></p>
+<p align="left">KUN reading(s): <b>ゆづか</b></p>
+<p align="left">stroke count: <b>8</b></p>
+<p align="left">unicode: <b>5F23</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
