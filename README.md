@@ -1,7 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">衩</h1>
-<p align="left">meaning(s): <b>the open seam of a garment which allows freedom of movement</b></p>
-<p align="left">ON reading(s): <b>サ, サイ, シャ</b></p>
-<p align="left">stroke count: <b>8</b></p>
-<p align="left">unicode: <b>8869</b></p>
+<h1 align="center">饌</h1>
+<p align="left">meaning(s): <b>food, offering</b></p>
+<p align="left">ON reading(s): <b>サン, セン</b></p>
+<p align="left">KUN reading(s): <b>そな.える</b></p>
+<p align="left">stroke count: <b>21</b></p>
+<p align="left">unicode: <b>994C</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
