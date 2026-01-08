@@ -1,8 +1,9 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">姧</h1>
-<p align="left">meaning(s): <b>mischief, noisy, rape, seduce, wicked</b></p>
-<p align="left">ON reading(s): <b>カン, ケン</b></p>
-<p align="left">KUN reading(s): <b>かしま.しい, みだら, よこしま</b></p>
-<p align="left">stroke count: <b>9</b></p>
-<p align="left">unicode: <b>59E7</b></p>
+<h1 align="center">繡</h1>
+<p align="left">meaning(s): <b>embroider, embroidery, ornament</b></p>
+<p align="left">ON reading(s): <b>シュウ</b></p>
+<p align="left">KUN reading(s): <b>ぬいとり</b></p>
+<p align="left">grade: <b>9</b></p>
+<p align="left">stroke count: <b>18</b></p>
+<p align="left">unicode: <b>7E61</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
