@@ -1,8 +1,7 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">拗</h1>
-<p align="left">meaning(s): <b>crooked, cross, distorted, perverted, twisted</b></p>
-<p align="left">ON reading(s): <b>イク, オウ, ユウ, ヨウ</b></p>
-<p align="left">KUN reading(s): <b>こじ.れる, す.ねる, ねじ.ける, ねじ.れる</b></p>
-<p align="left">stroke count: <b>8</b></p>
-<p align="left">unicode: <b>62D7</b></p>
+<h1 align="center">珸</h1>
+<p align="left">meaning(s): <b>jewel</b></p>
+<p align="left">ON reading(s): <b>ゴ</b></p>
+<p align="left">stroke count: <b>11</b></p>
+<p align="left">unicode: <b>73F8</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
