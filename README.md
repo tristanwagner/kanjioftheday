@@ -1,8 +1,7 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">鈞</h1>
-<p align="left">meaning(s): <b>equal, important point</b></p>
-<p align="left">ON reading(s): <b>キン</b></p>
-<p align="left">KUN reading(s): <b>ひと.しい</b></p>
-<p align="left">stroke count: <b>12</b></p>
-<p align="left">unicode: <b>921E</b></p>
+<h1 align="center">彖</h1>
+<p align="left">meaning(s): <b>divination</b></p>
+<p align="left">ON reading(s): <b>タン</b></p>
+<p align="left">stroke count: <b>9</b></p>
+<p align="left">unicode: <b>5F56</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
