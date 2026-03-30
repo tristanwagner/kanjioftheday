@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">秧</h1>
-<p align="left">meaning(s): <b>rice, seedlings</b></p>
-<p align="left">ON reading(s): <b>オウ</b></p>
-<p align="left">KUN reading(s): <b>なえ</b></p>
-<p align="left">stroke count: <b>10</b></p>
-<p align="left">unicode: <b>79E7</b></p>
+<h1 align="center">惓</h1>
+<p align="left">meaning(s): <b>be respectful, grow tired</b></p>
+<p align="left">ON reading(s): <b>ケン</b></p>
+<p align="left">KUN reading(s): <b>うむ</b></p>
+<p align="left">stroke count: <b>12</b></p>
+<p align="left">unicode: <b>60D3</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
