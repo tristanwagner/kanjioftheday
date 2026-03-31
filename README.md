@@ -1,8 +1,13 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">惓</h1>
-<p align="left">meaning(s): <b>be respectful, grow tired</b></p>
-<p align="left">ON reading(s): <b>ケン</b></p>
-<p align="left">KUN reading(s): <b>うむ</b></p>
-<p align="left">stroke count: <b>12</b></p>
-<p align="left">unicode: <b>60D3</b></p>
+<h1 align="center">流</h1>
+<p align="left">meaning(s): <b>a sink, current, flow, forfeit</b></p>
+<p align="left">Heisig: <b>current</b></p>
+<p align="left">ON reading(s): <b>リュウ, ル</b></p>
+<p align="left">KUN reading(s): <b>-なが.す, なが.す, なが.れ, なが.れる</b></p>
+<p align="left">name reading(s): <b>な, ながれ, めぐる</b></p>
+<p align="left">frequency: <b>280</b></p>
+<p align="left">grade: <b>3</b></p>
+<p align="left">JLPT level: <b>3</b></p>
+<p align="left">stroke count: <b>10</b></p>
+<p align="left">unicode: <b>6D41</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
