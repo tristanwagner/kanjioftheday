@@ -1,8 +1,12 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">衜</h1>
-<p align="left">meaning(s): <b>path, way</b></p>
-<p align="left">ON reading(s): <b>トウ</b></p>
-<p align="left">KUN reading(s): <b>みち</b></p>
-<p align="left">stroke count: <b>15</b></p>
-<p align="left">unicode: <b>885C</b></p>
+<h1 align="center">帆</h1>
+<p align="left">meaning(s): <b>sail</b></p>
+<p align="left">Heisig: <b>sail</b></p>
+<p align="left">ON reading(s): <b>ハン</b></p>
+<p align="left">KUN reading(s): <b>ほ</b></p>
+<p align="left">frequency: <b>1923</b></p>
+<p align="left">grade: <b>8</b></p>
+<p align="left">JLPT level: <b>1</b></p>
+<p align="left">stroke count: <b>6</b></p>
+<p align="left">unicode: <b>5E06</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
