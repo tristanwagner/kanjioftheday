@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">甎</h1>
-<p align="left">meaning(s): <b>floor tiles</b></p>
-<p align="left">ON reading(s): <b>セン</b></p>
-<p align="left">KUN reading(s): <b>かわら, しきがわら</b></p>
-<p align="left">stroke count: <b>16</b></p>
-<p align="left">unicode: <b>750E</b></p>
+<h1 align="center">愔</h1>
+<p align="left">meaning(s): <b>comfortable, contented, peaceful</b></p>
+<p align="left">ON reading(s): <b>アン, イン, オン</b></p>
+<p align="left">KUN reading(s): <b>やわ.らぐ</b></p>
+<p align="left">stroke count: <b>12</b></p>
+<p align="left">unicode: <b>6114</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
