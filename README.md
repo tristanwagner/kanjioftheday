@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">勠</h1>
-<p align="left">meaning(s): <b>combine, join forces</b></p>
-<p align="left">ON reading(s): <b>リク</b></p>
-<p align="left">KUN reading(s): <b>あわ.せる</b></p>
-<p align="left">stroke count: <b>13</b></p>
-<p align="left">unicode: <b>52E0</b></p>
+<h1 align="center">湅</h1>
+<p align="left">meaning(s): <b>boil silk</b></p>
+<p align="left">ON reading(s): <b>ラン, レン</b></p>
+<p align="left">KUN reading(s): <b>ね.る</b></p>
+<p align="left">stroke count: <b>12</b></p>
+<p align="left">unicode: <b>6E45</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
