@@ -1,7 +1,12 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">霝</h1>
-<p align="left">meaning(s): <b>drops of rain, to fall in drops</b></p>
-<p align="left">ON reading(s): <b>リョウ, レイ</b></p>
-<p align="left">stroke count: <b>17</b></p>
-<p align="left">unicode: <b>971D</b></p>
+<h1 align="center">嘱</h1>
+<p align="left">meaning(s): <b>entrust, request, send a message</b></p>
+<p align="left">Heisig: <b>entrust</b></p>
+<p align="left">ON reading(s): <b>ショク</b></p>
+<p align="left">KUN reading(s): <b>しょく.する, たの.む</b></p>
+<p align="left">frequency: <b>1903</b></p>
+<p align="left">grade: <b>8</b></p>
+<p align="left">JLPT level: <b>1</b></p>
+<p align="left">stroke count: <b>15</b></p>
+<p align="left">unicode: <b>5631</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
