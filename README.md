@@ -1,6 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">䵷</h1>
-<p align="left">meaning(s): <b>frog, to make the noise of vomitting</b></p>
-<p align="left">stroke count: <b>19</b></p>
-<p align="left">unicode: <b>4D77</b></p>
+<h1 align="center">穪</h1>
+<p align="left">meaning(s): <b>to praise</b></p>
+<p align="left">ON reading(s): <b>ショウ</b></p>
+<p align="left">KUN reading(s): <b>たた.える, とな.える, あ.げる, かな.う, はか.る, ほめ.る</b></p>
+<p align="left">stroke count: <b>18</b></p>
+<p align="left">unicode: <b>7A6A</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
