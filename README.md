@@ -1,8 +1,7 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">奞</h1>
-<p align="left">meaning(s): <b>the stride made by a man</b></p>
-<p align="left">ON reading(s): <b>シュン, スイ, ヨウ</b></p>
-<p align="left">KUN reading(s): <b>は.ばたく</b></p>
-<p align="left">stroke count: <b>11</b></p>
-<p align="left">unicode: <b>595E</b></p>
+<h1 align="center">蝴</h1>
+<p align="left">meaning(s): <b>butterfly</b></p>
+<p align="left">ON reading(s): <b>コ</b></p>
+<p align="left">stroke count: <b>15</b></p>
+<p align="left">unicode: <b>8774</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
