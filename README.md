@@ -1,7 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">拌</h1>
-<p align="left">meaning(s): <b>stir and mix</b></p>
-<p align="left">ON reading(s): <b>ハン</b></p>
-<p align="left">stroke count: <b>8</b></p>
-<p align="left">unicode: <b>62CC</b></p>
+<h1 align="center">鎵</h1>
+<p align="left">meaning(s): <b>Gallium (element)</b></p>
+<p align="left">ON reading(s): <b>カ</b></p>
+<p align="left">KUN reading(s): <b>ガリウム</b></p>
+<p align="left">stroke count: <b>18</b></p>
+<p align="left">unicode: <b>93B5</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
