@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">逩</h1>
-<p align="left">meaning(s): <b>to run quickly</b></p>
-<p align="left">ON reading(s): <b>ホン, カム</b></p>
-<p align="left">KUN reading(s): <b>はし.る</b></p>
-<p align="left">stroke count: <b>11</b></p>
-<p align="left">unicode: <b>9029</b></p>
+<h1 align="center">搒</h1>
+<p align="left">meaning(s): <b>pole, beat</b></p>
+<p align="left">ON reading(s): <b>ホウ, ヒョウ</b></p>
+<p align="left">KUN reading(s): <b>おお.う</b></p>
+<p align="left">stroke count: <b>13</b></p>
+<p align="left">unicode: <b>6412</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
