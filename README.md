@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">褫</h1>
-<p align="left">meaning(s): <b>rob</b></p>
-<p align="left">ON reading(s): <b>チ</b></p>
-<p align="left">KUN reading(s): <b>うば.う</b></p>
+<h1 align="center">緵</h1>
+<p align="left">meaning(s): <b>net</b></p>
+<p align="left">ON reading(s): <b>ソウ, ス</b></p>
+<p align="left">KUN reading(s): <b>いと</b></p>
 <p align="left">stroke count: <b>15</b></p>
-<p align="left">unicode: <b>892B</b></p>
+<p align="left">unicode: <b>7DF5</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
