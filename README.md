@@ -1,8 +1,13 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">顆</h1>
-<p align="left">meaning(s): <b>grain (e.g. rice)</b></p>
-<p align="left">ON reading(s): <b>カ</b></p>
-<p align="left">KUN reading(s): <b>つ.ぶ</b></p>
-<p align="left">stroke count: <b>17</b></p>
-<p align="left">unicode: <b>9846</b></p>
+<h1 align="center">彼</h1>
+<p align="left">meaning(s): <b>he, that, the</b></p>
+<p align="left">Heisig: <b>he</b></p>
+<p align="left">ON reading(s): <b>ヒ</b></p>
+<p align="left">KUN reading(s): <b>かれ, かの, か.の</b></p>
+<p align="left">name reading(s): <b>その</b></p>
+<p align="left">frequency: <b>648</b></p>
+<p align="left">grade: <b>8</b></p>
+<p align="left">JLPT level: <b>3</b></p>
+<p align="left">stroke count: <b>8</b></p>
+<p align="left">unicode: <b>5F7C</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
