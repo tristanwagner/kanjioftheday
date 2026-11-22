@@ -1,8 +1,8 @@
 <h1 align="center">Kanji of the day</h1>
-<h1 align="center">凾</h1>
-<p align="left">meaning(s): <b>box</b></p>
-<p align="left">ON reading(s): <b>カン</b></p>
-<p align="left">KUN reading(s): <b>はこ, い.れる</b></p>
-<p align="left">stroke count: <b>9</b></p>
-<p align="left">unicode: <b>51FE</b></p>
+<h1 align="center">騶</h1>
+<p align="left">meaning(s): <b>mounted escort, groom</b></p>
+<p align="left">ON reading(s): <b>シュウ, シュ, ス, チュ, スウ</b></p>
+<p align="left">KUN reading(s): <b>うまかい</b></p>
+<p align="left">stroke count: <b>20</b></p>
+<p align="left">unicode: <b>9A36</b></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tristanwagner-kanjioftheday&label=Views&color=0e75b6&style=flat" alt="views"/></p>
